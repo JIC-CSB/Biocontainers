@@ -1,0 +1,3 @@
+deb http://nebc.nerc.ac.uk/bio-linux/ unstable bio-linux
+deb http://ppa.launchpad.net/nebc/bio-linux/ubuntu precise main
+deb-src http://ppa.launchpad.net/nebc/bio-linux/ubuntu precise main
