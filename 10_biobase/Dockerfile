@@ -1,4 +1,5 @@
 FROM ubuntu:precise
+MAINTAINER Matthew Hartley <Matthew.Hartley@jic.ac.uk>
 
 COPY extra-sources.list /tmp
 RUN cat /tmp/extra-sources.list >> /etc/apt/sources.list
